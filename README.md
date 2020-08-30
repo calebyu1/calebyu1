@@ -1,6 +1,6 @@
 
 
-<!--
+
 Hi, my name is Caleb, and I am a sophomore double majoring in Computer Science and Canfield Business Honors in the Texas CSB program at the University of Texas at Austin.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
