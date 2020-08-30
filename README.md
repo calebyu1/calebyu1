@@ -21,6 +21,3 @@ My experiences with programming languages:
   SQL: learned in Intro to Technology Management class, created queries for both web and mobile applications
 
 
-### - ⚡ Fun fact: I co-founded a non-profit clothing company. 
-
-
