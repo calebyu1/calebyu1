@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 This semester I'm taking classes revolved around: Operation Systems, Linear Algebra, Management, and Accounting.
 - 🔭 I’m currently learning how to develop React Native mobile applications.
-- 🖥 Programming languages:Java, C/C++, Python
+- 🖥 Programming languages: Java, C/C++, Python, JavaScript, HTML, CSS, SQL
 - 📫 How to reach me: calebyu@utexas.edu or https://www.linkedin.com/in/calebyu7/
 - 😄 Pronouns: he/him/his
 
