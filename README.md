@@ -15,7 +15,7 @@ My experiences with programming languages:
 
 - Java: 3-4 years of experience, learned throughout high school and college (Data Structures class)
 - C and C++: learn/learning throughout college, utilized C for projects in Computer Architecture class and currently learning C++ in Operating Systems class
-- Python: used in AAK Tele-science internship for Flask backend/routing
+- Python: used in AAK Tele-Science internship for Flask backend/routing
 - JavaScript: developed React Native mobile application, used to dynamically update websites while at AAK Tele-Science (worked with jQuery, Ajax, and Handlebars.js)
 - HTML/CSS: designed web pages for AAK Tele-Science
 - SQL: learned in Intro to Technology Management class, created queries for both web and mobile applications
