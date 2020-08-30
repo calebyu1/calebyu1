@@ -1,7 +1,7 @@
 
 
 
-Hi! My name is Caleb, and I am a sophomore double majoring in Computer Science Honors and Canfield Business Honors in the Texas CSB program at the University of Texas at Austin. I am passionate about technology and how it can be used as a means to create positive change in the world. I strongly believe that my well-rounded education and independent endeavors will equipt me to impact people and business through technology. I am currently seeking a Software Engineering Internship for Summer 2021. 
+Hi! My name is Caleb, and I am a sophomore double majoring in Computer Science Honors and Canfield Business Honors in the Texas CSB program at the University of Texas at Austin. I am passionate about technology and how it can be used as a means to create positive change in the world. I strongly believe that my well-rounded education and independent endeavors will equipt me to impact people and business through technology. This past summer I interned at a startup called AAK Tele-Science. I am currently seeking a Software Engineering Internship for Summer 2021. 
 
 Here are some ideas to get you started:
 
@@ -17,7 +17,7 @@ My experiences with programming languages:
 - C and C++: learn/learning throughout college, utilized C for projects in Computer Architecture class and currently learning C++ in Operating Systems class
 - Python: used in AAK Tele-science internship for Flask backend/routing
 - JavaScript: developed React Native mobile application, used to dynamically update websites while at AAK Tele-Science (worked with jQuery, Ajax, and Handlebars.js)
-- HTML/CSS: designed web pages in AAK Tele-science internship 
+- HTML/CSS: designed web pages for AAK Tele-Science
 - SQL: learned in Intro to Technology Management class, created queries for both web and mobile applications
 
 
